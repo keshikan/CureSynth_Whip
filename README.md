@@ -55,13 +55,13 @@ In addition, use [this binary file for STM32F765](./software/bin).
   * [その1 開発用ボードの設計](http://www.keshikan.net/gohantabeyo/?p=207)
   * [その2 音源部の構成](http://www.keshikan.net/gohantabeyo/?p=261)
   * [その3 ソフトウェアの概要](http://www.keshikan.net/gohantabeyo/?p=301)
-  * [その4 MIDIメッセージの受信とリングバッファ](http://www.keshikan.net/gohantabeyo/?p=301)
+  * [その4 MIDIメッセージの受信とリングバッファ](http://www.keshikan.net/gohantabeyo/?p=349)
 
 ## References
 
 ### MIDI specification
 
-* [The Complete MIDI 1.0 Detailed Specification](https://www.midi.org/specifications/item/the-midi-1-0-specification) ([MIDI Association](https://www.midi.org/)
+* [The Complete MIDI 1.0 Detailed Specification](https://www.midi.org/specifications/item/the-midi-1-0-specification) ([MIDI Association](https://www.midi.org/))
 * [MIDI1.0規格書](http://amei.or.jp/midistandardcommittee/MIDI1.0.pdf) ([AMEI](http://amei.or.jp/))
 * [MIDIの学習](http://www1.plala.or.jp/yuuto/midi/index.html) ([Laboratory "U"](http://www1.plala.or.jp/yuuto/top.html))
 
