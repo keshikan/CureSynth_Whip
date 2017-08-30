@@ -33,21 +33,21 @@ STM32F7を使用した、16パートのマルチティンバーMIDI音源「Cure
 
 ### Making hardware
 
-See [Schematic](https://github.com/keshikan/Hardware/schematic.pdf).
+See [Schematic](./hardware/schematic.pdf).
 
 ### Building software
 
-Install [SW4STM32](http://www.openstm32.org/HomePage)(need registration), import [Project files](https://github.com/keshikan/CureSynth_Whip/Software/SW4STM32_project/), and build.  
-In addition, use [this binary file for STM32F765](https://github.com/keshikan/CureSynth_Whip/Software/bin/).
+Install [SW4STM32](http://www.openstm32.org/HomePage)(need registration), import [Project files](./software/SW4STM32_project/), and build.  
+In addition, use [this binary file for STM32F765](./software/bin).
 
 *Notice: Use gcc optimization flag "-O3"*.
 
 ## File Location
 
-* [Binary file for STM32F765](https://github.com/keshikan/CureSynth_Whip/Software/bin/)
-* [STM32CubeMX Project file](https://github.com/keshikan/CureSynth_Whip/Software/SW4STM32_project/CureSynth_Whip.ioc)
-* [Source codes and project files (System WorkBench for STM32)](https://github.com/keshikan/CureSynth_Whip/Software/SW4STM32_project/)
-* [Schematic](https://github.com/keshikan/Hardware/schematic.pdf)
+* [Binary file for STM32F765](./software/bin/)
+* [STM32CubeMX Project file](./software/SW4STM32_project/CureSynth_Whip.ioc)
+* [Source codes and project files (System WorkBench for STM32)](./software/SW4STM32_project/)
+* [Schematic](./hardware/schematic.pdf)
 
 ## Memos for Development (written in Japanese)
 
