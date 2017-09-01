@@ -1,6 +1,7 @@
 /*
  *******************************************************************************
  *  [curemidi.h]
+ *  This module is for analyzing MIDI messages and controlling "curesynth.h/c"
  *
  *  This program is under the terms of the GPLv3.
  *  https://www.gnu.org/licenses/gpl-3.0.html

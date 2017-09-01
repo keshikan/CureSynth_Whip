@@ -1,6 +1,7 @@
 /*
  *******************************************************************************
  *  [curebuffer.h]
+ *  This module is for FIFO buffer.
  *
  *  This program is under the terms of the GPLv3.
  *  https://www.gnu.org/licenses/gpl-3.0.html

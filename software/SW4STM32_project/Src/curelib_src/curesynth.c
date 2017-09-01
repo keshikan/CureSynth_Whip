@@ -1,6 +1,7 @@
 /*
  *******************************************************************************
  *  [curesynth.c]
+ *  This module is for sound generation.
  *
  *  This program is under the terms of the GPLv3.
  *  https://www.gnu.org/licenses/gpl-3.0.html

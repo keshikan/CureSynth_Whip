@@ -76,8 +76,13 @@ In addition, use [this binary file for STM32F765](./software/bin).
 * [Plotting RBJ Audio-EQ-Cookbook HPF/LPF](http://aikelab.net/filter/) ([Aike Lab](http://aikelab.net/))
 * [簡単なデジタルフィルタの実装](http://vstcpp.wpblog.jp/?page_id=523) ([C++でVST作り](http://vstcpp.wpblog.jp/))
 
+### SIMD of STM32
+
+* [SIMDを使おう](http://motionplayer.wiki.fc2.com/wiki/SIMD%E3%82%92%E4%BD%BF%E3%81%8A%E3%81%86) ([STM32F4-Discovery Motion Player Project](http://motionplayer.wiki.fc2.com/))
+
 ### Hardware
 
+* [MIDI のハードウェアについて](http://eleken.y-lab.org/report/other/midi.shtml) ([Y-Lab. Electronics](http://eleken.y-lab.org/))
 * 「OPアンプ活用 成功のかぎ」, Akihiro Kawata, CQ Publishing, 2009, ISBN-13:978-4789842068
 
 ## Author

@@ -1,6 +1,7 @@
 /*
  *******************************************************************************
  *  [patchlist.h]
+ *  This header file contains patch-lists for GM1 mode.
  *
  *  This program is under the terms of the GPLv3.
  *  https://www.gnu.org/licenses/gpl-3.0.html

@@ -1,6 +1,7 @@
 /*
  *******************************************************************************
  *  [curedisplay.c]
+ *  This module is making display pattern for SH1103 OLED module (using I2C mode) .
  *
  *  This program is under the terms of the GPLv3.
  *  https://www.gnu.org/licenses/gpl-3.0.html
